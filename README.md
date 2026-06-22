@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there, I'm Hakberdi 👋
+🇬🇧 Based in the UK. After 5 years of self-taught coding, I’m beginning to document my projects, experiments, and learning journey on GitHub.
 
-<!--
-**Hakberdi11/Hakberdi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently working on a project that will change the feeling of going to the Gym 
 
-Here are some ideas to get you started:
+🧠Studying Machine Learning while applying my knowledge in Real World Problems
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tech stack:
+- C, C++, C# ( for Unity )
+- Python ( Django )
+- Web-Dev ( Node.js, SQL and non-SQL databases, with REST API's )
+<br/>
+
+Contact me:
+  - hakyorazov@gmail.com
+  - insta: @hakberdi.wg
+  - LinkedIn: Hakberdi Orazov
